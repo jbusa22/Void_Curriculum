@@ -1,1 +1,75 @@
+html {            
+    font-size: 62.5%; 
+}  
+body {
+    color: white;
+    text-align: center;
+    font-size: 1.6rem;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    box-sizing: border-box;
+}
+  
+.heading-box {
+    background-color: black;
+    margin-top: 3rem;
+}
+.inspo {
+    font-size: 3rem;
+}
+.title {
+    padding-top: 5rem;
+    font-size: 8rem;
+    font-weight: 700;
+}
 
+p {
+    text-align: right;
+}
+#void-greatness-box {
+    width: 80%;
+    color: black;
+    background-color: purple;
+    margin-top: 2rem;
+    position: absolute;
+    right: 0;
+    box-shadow: .6rem 1.2rem 1.2rem .7rem grey;
+
+    /* Note click the shadow editor in inspect element to visualize this */
+}
+.vegetable-box {
+    display: inline-block;
+    background-color: black;
+    border: .2rem solid white;
+    padding: 2rem;
+    width: 30rem;
+    margin-left: 2rem;
+    font-size: 5rem;
+}
+.blue-box {
+    margin-top: 5rem;
+    margin-left: 9rem;
+    margin-right: 9rem;
+    background-color: blue;
+    padding-top: 12rem;
+    padding-bottom: 3rem;
+}
+.box1 {
+    position: relative;
+    bottom: 2rem;
+}
+.box3 {
+    position: relative;
+    top: 2rem;
+}
+
+#carrot{
+    background-color: rgb(255, 124, 2);
+}
+#cucumber{
+    background-color: rgb(92, 180, 92);
+}
+#radish{
+    background-color: rgb(202, 60, 60);
+}
