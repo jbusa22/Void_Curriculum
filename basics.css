@@ -1,1 +1,69 @@
+html {            
+    font-size: 62.5%; 
+}  
+body {
+    color: white;
+    text-align: center;
+    font-size: 1.6rem;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    box-sizing: border-box;
+}
+  
+.heading-box {
+    background-color: black;
+    margin-top: 3rem;
+    padding: 3rem;
+}
+.inspo {
+    font-size: 3rem;
+}
+.title {
+    padding-top: 2rem;
+    font-size: 8rem;
+    font-weight: 700;
+}
 
+#void-greatness-box {
+    background-color: #6e68b1;
+    color: white;
+    padding: 3rem;
+    line-height: 1.5;
+    margin-top: 2rem;
+    text-align: left;
+    /* Note click the shadow editor in inspect element to visualize this */
+}
+.vegetable-box {
+    background-color: black;
+    border: .2rem solid white;
+    padding: 2rem;
+    margin: 2rem;
+    font-size: 5rem;
+}
+.blue-box {
+    margin-top: 5rem;
+    background-color: blue;
+    padding: 3rem;
+}
+.navbar {
+    background-color: #6e68b1;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 2.5rem;
+    margin: 2rem 0;
+}
+.link-box {
+    width: 30%;
+    display: flex;
+    font-size: 2.3rem;
+    justify-content: space-between;
+}
+.link-item {
+    cursor: pointer;
+}
+.link-item:hover {
+    color: rgb(212, 253, 253);
+}
