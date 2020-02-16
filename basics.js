@@ -18,3 +18,6 @@ var loginInfo = [{username: "jack", password: "1234"},
                 ];
 
 var navbarItems = document.querySelectorAll(".link-item");
+
+// Write javascript here that will toggle the drop-switch class
+
